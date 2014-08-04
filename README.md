@@ -26,6 +26,7 @@ A curated list of amazingly awesome awesomeness
 	- [Perl](https://github.com/hachiojipm/awesome-perl)
 	- [PHP](https://github.com/ziadoz/awesome-php)
 		- [CakePHP](https://github.com/dereuromark/awesome-cakephp)
+		- [Laravel](https://github.com/tuwannu/awesome-laravel)
 	- Python
 		- [by @svaksha](https://github.com/svaksha/pythonidae)
 		- [by @vinta](https://github.com/vinta/awesome-python)
