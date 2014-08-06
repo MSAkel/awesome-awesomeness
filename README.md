@@ -3,6 +3,7 @@
 A curated list of amazingly awesome awesomeness
 
 - Programming Languages
+	- [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey)
 	- [C/C++](https://github.com/fffaraz/awesome-cpp)
 	- [Clojure](https://github.com/razum2um/awesome-clojure)
 	- [ColdFusion](https://github.com/seancoyne/awesome-coldfusion)
@@ -56,7 +57,9 @@ A curated list of amazingly awesome awesomeness
 		- [Free Software Testing Books](https://github.com/ligurio/free-software-testing-books)
 	- [Cordova](https://github.com/busterc/awesome-cordova)
 	- [Data Science](https://github.com/okulbilisim/awesome-datascience)
+	- [Database](https://github.com/numetriclabz/awesome-db)
 	- [Dev Env](https://github.com/jondot/awesome-devenv)
+	- [Emacs](https://github.com/emacs-tw/awesome-emacs)
 	- [Frontend Dev](https://github.com/dypsilon/frontend-dev-bookmarks)
 	- [Game Development](https://github.com/ellisonleao/magictools)
 	- [HTML5](https://github.com/diegocard/awesome-html5)
