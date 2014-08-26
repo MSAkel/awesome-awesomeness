@@ -8,6 +8,7 @@ A curated list of amazingly awesome awesomeness
 	- [Clojure](https://github.com/razum2um/awesome-clojure)
 	- [ColdFusion](https://github.com/seancoyne/awesome-coldfusion)
 	- [D](https://github.com/zhaopuming/awesome-d)
+	- [Delphi](https://github.com/Fr0sT-Brutal/awesome-delphi)
 	- [Elixir](https://github.com/h4cc/awesome-elixir)
 	- Erlang
 		- [by @0xAX](https://github.com/0xAX/erlang-bookmarks)
@@ -22,6 +23,9 @@ A curated list of amazingly awesome awesomeness
 			- [by @sindresorhus](https://github.com/sindresorhus/awesome-nodejs)
 			- [by @vndmtrx](https://github.com/vndmtrx/awesome-nodejs)
 	- [Julia](https://github.com/svaksha/Julia.jl)
+	- Lua
+		- [by @forhappy](https://github.com/forhappy/awesome-lua)
+		- [by @lewisjellis](https://github.com/LewisJEllis/awesome-lua)
 	- [.NET](https://github.com/quozd/awesome-dotnet)
 	- [OCaml](https://github.com/rizo/awesome-ocaml)
 	- [Perl](https://github.com/hachiojipm/awesome-perl)
@@ -46,19 +50,25 @@ A curated list of amazingly awesome awesomeness
 
 - General
 	- [Algorithms](https://github.com/tayllan/awesome-algorithms)
+	- [Analytics](https://github.com/onurakpolat/awesome-analytics)
 	- [Android](https://github.com/JStumpp/awesome-android)
 		- [Android Security](https://github.com/ashishb/android-security-awesome)
 	- [Apple](https://github.com/joeljfischer/awesome-apple)
 	- [Awesomeness](https://github.com/bayandin/awesome-awesomeness)
-	- [Big data](https://github.com/onurakpolat/awesome-bigdata)
+	- Big data
+		- [by @onurakpolat](https://github.com/onurakpolat/awesome-bigdata)
+		- [by @zenkay](https://github.com/zenkay/bigdata-ecosystem)
 		- [Hadoop](https://github.com/youngwookim/awesome-hadoop)
 	- Books
 		- [Free Programming Books](https://github.com/vhf/free-programming-books)
 		- [Free Software Testing Books](https://github.com/ligurio/free-software-testing-books)
+	- [Bootstrap](https://github.com/therebelrobot/awesome-bootstrap)
+	- [Conferences](https://github.com/RichardLitt/awesome-conferences)
 	- [Cordova](https://github.com/busterc/awesome-cordova)
 	- [Data Science](https://github.com/okulbilisim/awesome-datascience)
 	- [Database](https://github.com/numetriclabz/awesome-db)
 	- [Dev Env](https://github.com/jondot/awesome-devenv)
+	- [Dotfiles](https://github.com/webpro/awesome-dotfiles)
 	- [Emacs](https://github.com/emacs-tw/awesome-emacs)
 	- [Frontend Dev](https://github.com/dypsilon/frontend-dev-bookmarks)
 	- [Game Development](https://github.com/ellisonleao/magictools)
@@ -70,6 +80,9 @@ A curated list of amazingly awesome awesomeness
 	- [Sysadmin](https://github.com/kahun/awesome-sysadmin)
 	- [Talks](https://github.com/JanVanRyswyck/awesome-talks)
 	- [Tools](https://github.com/cjbarber/ToolsOfTheTrade)
+	- Vim
+		- [by @akrawchyk](https://github.com/akrawchyk/awesome-vim)
+		- [by @matteocrippa](https://github.com/matteocrippa/awesome-vim)
 
 ## License
 
