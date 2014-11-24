@@ -1,6 +1,7 @@
 # Awesome Awesomeness
 
-A curated list of amazingly awesome awesomeness
+A curated list of amazingly awesome awesomeness.
+Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.zeef.com/alexander.bayandin)
 
 - Programming Languages
 	- [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey)
@@ -33,6 +34,7 @@ A curated list of amazingly awesome awesomeness
 		- [CakePHP](https://github.com/dereuromark/awesome-cakephp)
 		- [Laravel](https://github.com/tuwannu/awesome-laravel)
 	- Python
+		- [by @kirang89](https://github.com/kirang89/pycrumbs)
 		- [by @svaksha](https://github.com/svaksha/pythonidae)
 		- [by @vinta](https://github.com/vinta/awesome-python)
 	- [R](https://github.com/qinwf/awesome-R)
@@ -50,11 +52,11 @@ A curated list of amazingly awesome awesomeness
 
 - General
 	- [Algorithms](https://github.com/tayllan/awesome-algorithms)
+		- [Algorithms Visualisation](https://github.com/enjalot/algovis)
 	- [Analytics](https://github.com/onurakpolat/awesome-analytics)
 	- [Android](https://github.com/JStumpp/awesome-android)
 		- [Android Security](https://github.com/ashishb/android-security-awesome)
 	- [Apple](https://github.com/joeljfischer/awesome-apple)
-	- [Awesomeness](https://github.com/bayandin/awesome-awesomeness)
 	- Big data
 		- [by @onurakpolat](https://github.com/onurakpolat/awesome-bigdata)
 		- [by @zenkay](https://github.com/zenkay/bigdata-ecosystem)
@@ -65,24 +67,40 @@ A curated list of amazingly awesome awesomeness
 	- [Bootstrap](https://github.com/therebelrobot/awesome-bootstrap)
 	- [Conferences](https://github.com/RichardLitt/awesome-conferences)
 	- [Cordova](https://github.com/busterc/awesome-cordova)
+	- [Creative Commons Media](https://github.com/shime/creative-commons-media)
 	- [Data Science](https://github.com/okulbilisim/awesome-datascience)
 	- [Database](https://github.com/numetriclabz/awesome-db)
 	- [Dev Env](https://github.com/jondot/awesome-devenv)
+	- [Docker](https://github.com/veggiemonk/awesome-docker)
+	- [Documentation](https://github.com/PharkMillups/beautiful-docs)
 	- [Dotfiles](https://github.com/webpro/awesome-dotfiles)
 	- [Emacs](https://github.com/emacs-tw/awesome-emacs)
 	- [Frontend Dev](https://github.com/dypsilon/frontend-dev-bookmarks)
 	- [Game Development](https://github.com/ellisonleao/magictools)
 	- [HTML5](https://github.com/diegocard/awesome-html5)
+	- [Images](https://github.com/heyalexej/awesome-images)
 	- [iOS](https://github.com/vsouza/awesome-ios)
+	- [Koans](https://github.com/ahmdrefat/awesome-koans)
+	- Lists
+		- [by @bayandin](https://github.com/bayandin/awesome-awesomeness)
+		- [by @jnv](https://github.com/jnv/lists)
+		- [by @sindresorhus](https://github.com/sindresorhus/awesome)
 	- [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+	- [Open Science](https://github.com/silky/awesome-open-science)
+	- [Papers](https://github.com/papers-we-love/papers-we-love)
 	- [Services Engineering](https://github.com/mmcgrana/services-engineering)
+	- [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
+	- [Styleguides](https://github.com/RichardLitt/awesome-styleguides)
 	- [Sublime Text](https://github.com/dreikanter/sublime-bookmarks)
+	- [SVG](https://github.com/willianjusten/awesome-svg)
 	- [Sysadmin](https://github.com/kahun/awesome-sysadmin)
 	- [Talks](https://github.com/JanVanRyswyck/awesome-talks)
 	- [Tools](https://github.com/cjbarber/ToolsOfTheTrade)
 	- Vim
 		- [by @akrawchyk](https://github.com/akrawchyk/awesome-vim)
 		- [by @matteocrippa](https://github.com/matteocrippa/awesome-vim)
+	- [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo)
+	- [WebComponents](https://github.com/mateusortiz/webcomponents-the-right-way)
 
 ## License
 
