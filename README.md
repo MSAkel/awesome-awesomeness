@@ -20,7 +20,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [Haskell](https://github.com/krispo/awesome-haskell)
 	- [Java](https://github.com/akullpp/awesome-java)
 	- [JavaScript](https://github.com/sorrycc/awesome-javascript)
-        - [Dojo Toolkit](https://github.com/peterkokot/awesome-dojo)
+		- [Dojo Toolkit](https://github.com/peterkokot/awesome-dojo)
 		- Node.js
 			- [by @sindresorhus](https://github.com/sindresorhus/awesome-nodejs)
 			- [by @vndmtrx](https://github.com/vndmtrx/awesome-nodejs)
@@ -34,7 +34,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [PHP](https://github.com/ziadoz/awesome-php)
 		- [CakePHP](https://github.com/dereuromark/awesome-cakephp)
 		- [Laravel](https://github.com/tuwannu/awesome-laravel)
-        - [Symfony](https://github.com/EmanueleMinotto/awesome-symfony2)
+		- [Symfony](https://github.com/EmanueleMinotto/awesome-symfony2)
 	- Python
 		- [by @kirang89](https://github.com/kirang89/pycrumbs)
 		- [by @svaksha](https://github.com/svaksha/pythonidae)
